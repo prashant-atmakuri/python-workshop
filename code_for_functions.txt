@@ -1,0 +1,3 @@
+my first txt document to store in git hub
+
+hi how are you
